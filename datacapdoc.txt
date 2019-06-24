@@ -1,0 +1,35 @@
+login: asaisse
+senha: A$@iss5Mk
+
+https://ibm.webex.com/meet/lucianep
+
+Account Openning OKOK
+AppBoleto OKOK
+App Composto OK
+App Extrato FGTS OK
+App Matricula OK
+Boleto OK
+BrasilDocs OK (tem fotos)
+BrazilDL OK
+CERT_TJDFD OK
+CheckProcessBrazil OK
+CHN_Trans OK
+Flex OK
+Flexdoc_segmentation OK
+FormTemplate OK
+FullOCR OK NCF
+H2_IRPF_BATCH_V2 OK
+H9_FGTS_020818 OK
+Imoveis_IPTU (Tem fotos) OK
+ITAU_CNH OK
+JFOM_AppInfoVendedor (Nao tem fotos) OK
+LearningTemplate (Nao tem fotos) OK
+NFullOCR (Tem fotos) OK
+POC_Geral (Tem documentos confidenciais) OK
+POC_IA (Nao tem fotos) OK
+Santander_Piloto (Nao tem fotos) OK
+Transaction (Nao tem fotos) OK
+Transaction_CNH (Tem documentos confidenciais) OK
+Transaction_ComRes (Nao tem fotos) OK
+Transaction_Renda
+TravelDocs OK
