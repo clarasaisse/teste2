@@ -33,3 +33,5 @@ Transaction_CNH (Tem documentos confidenciais) OK
 Transaction_ComRes (Nao tem fotos) OK
 Transaction_Renda
 TravelDocs OK
+
+- r
